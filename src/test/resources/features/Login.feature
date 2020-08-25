@@ -1,7 +1,7 @@
 Feature:Login
-  # Agile story
-  As user, I want to be able to login with user name and password
 
+  As user, I want to be able to login with user name and password
+  # Agile story
   # Test Method= Test case = Scenario
   # Test + DataProvider = Scenario Outline + Examples table
   Scenario:Login as sales manager and verify that tile is Dashboard
